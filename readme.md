@@ -1,5 +1,3 @@
-[![Hello 👋🏻](https://i.imgur.com/2RLLfyd.gif)](https://brunos3d.github.io)
-
 Hi. I’m Bruno. I am a Software Developer from Brazil 🇧🇷.
 
 I work at [Shawee](https://shawee.io) as a Web Developer. For more information about me,
