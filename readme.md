@@ -12,6 +12,6 @@ check out [brunos3d.github.io](https://brunos3d.github.io).
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BrunoS3D&repo=FastPlay" />
 </a>
 
-<a href="https://github.com/BrunoS3D/brunos3d.github.io">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BrunoS3D&repo=brunos3d.github.io" />
+<a href="https://github.com/BrunoS3D/I-made-minecraft-in-unity">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BrunoS3D&repo=I-made-minecraft-in-unity" />
 </a>
