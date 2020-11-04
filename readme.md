@@ -1,6 +1,6 @@
-Hi. I’m Bruno. I am a Software Developer from Brazil 🇧🇷.
+Hi. I’m Bruno. I am a Software Engineer from Brazil 🇧🇷.
 
-I work at [Shawee](https://shawee.io) as a Web Developer. For more information about me,
+I work at [Shawee](https://shawee.io) and [Rocketseat](https://rocketseat.com.br). For more information about my public projects,
 check out [brunos3d.github.io](https://brunos3d.github.io).
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/BrunoS3D)](https://brunos3d.github.io)
