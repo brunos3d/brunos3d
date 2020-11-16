@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bruno Silva</h1>
 <h3 align="center">I work at <a href="https://shawee.io" target="blank">Shawee 🍕</a> and <a href="https://rocketseat.com.br" target="blank">Rocketseat 🚀</a>.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunos3d&label=Profile%20views&color=0e75b6&style=flat" alt="brunos3d" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brunos3d" alt="brunos3d" /></a> </p>
-
 - 🌱 I’m currently learning **Next.js and GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://brunos3d.github.io](https://brunos3d.github.io)
@@ -14,6 +10,8 @@
 - 📫 How to reach me **bruno3dcontato@gmail.com**
 
 - ⚡ Fun fact **My favorite game is CSGO.**
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/BrunoS3D)](https://brunos3d.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
