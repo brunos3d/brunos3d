@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://brunos3d.github.io](https://brunos3d.github.io)
 
-- 💬 Ask me about **Unity3D, React.js and Discord BOT's.**
+- 💬 Ask me about **Unity3D, Next.js and Discord BOT's.**
 
 - 📫 How to reach me **bruno3dcontato@gmail.com**
 
