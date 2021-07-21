@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/BrunoS3D/BrunoS3D/master/wave.gif" width="30px">, I'm Bruno Silva</h1>
 <h3 align="center">I work at <a href="https://shawee.io" target="blank">Shawee 🍕</a> and <a href="https://rocketseat.com.br" target="blank">Rocketseat 🚀</a>.</h3>
 
-- 🌱 I’m currently learning **Next.js and GraphQL**
+- 🌱 I’m currently learning **Docker**
 
 - 👨‍💻 All of my projects are available at [https://brunos3d.github.io](https://brunos3d.github.io)
 
