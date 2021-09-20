@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **My favorite game is CSGO.**
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/BrunoS3D)](https://brunos3d.github.io)
+[//]: [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/BrunoS3D)](https://brunos3d.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
