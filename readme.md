@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning about **Web 3.0**
 
-- 👨‍💻 All of my projects are available at [https://brunos3d.github.io](https://brunos3d.github.io)
+- 👨‍💻 All of my projects are available at [https://brunosilva.io/](https://brunosilva.io/)
 
 - 💬 Ask me about **Unity3D, Next.js and Discord BOT's.**
 
