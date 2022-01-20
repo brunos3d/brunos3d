@@ -7,11 +7,11 @@
 
 - 💬 Ask me about **Unity3D, Next.js and Discord BOT's.**
 
-- 📫 How to reach me **bruno3dcontato@gmail.com**
+- 📫 How to reach me **hi@brunosilva.io**
 
 - ⚡ Fun fact **I started programming by creating games**
 
-[//]: [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/BrunoS3D)](https://brunos3d.github.io)
+[//]: [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/BrunoS3D)](https://brunosilva.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
