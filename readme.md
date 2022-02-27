@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://brunosilva.io/](https://brunosilva.io/)
 
-- 💬 Ask me about **Unity3D, Next.js and Discord BOT's.**
-
 - 📫 How to reach me **hi@brunosilva.io**
 
 - ⚡ Fun fact **I started programming by creating games**
